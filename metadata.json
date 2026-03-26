@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Pagamentos Motoboy Multi-usuário",
+  "description": "Sistema de gestão de pagamentos para motoboys com autenticação e segregação de dados por usuário.",
+  "requestFramePermissions": []
+}
